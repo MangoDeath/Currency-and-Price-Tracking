@@ -1,0 +1,12 @@
+{
+  "name": "My Investments",
+  "assets": [
+    {
+      "symbol": "ETH",
+      "quantity": 12.0,
+      "purchase_price": 2180.0,
+      "purchase_date": "2026-05-16",
+      "current_price": 2177.79
+    }
+  ]
+}
