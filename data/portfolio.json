@@ -1,0 +1,12 @@
+{
+  "name": "My Investments",
+  "assets": [
+    {
+      "symbol": "BTC",
+      "quantity": 0.67,
+      "purchase_price": 78300.0,
+      "purchase_date": "2026-05-16",
+      "current_price": 78181.0
+    }
+  ]
+}

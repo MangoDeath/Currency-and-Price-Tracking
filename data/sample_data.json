@@ -1,0 +1,26 @@
+{
+  "name": "My Portfolio",
+  "assets": [
+    {
+      "symbol": "BTC",
+      "quantity": 0.5,
+      "purchase_price": 45000,
+      "purchase_date": "2024-01-15",
+      "current_price": 50000
+    },
+    {
+      "symbol": "ETH",
+      "quantity": 5,
+      "purchase_price": 2500,
+      "purchase_date": "2024-02-01",
+      "current_price": 2800
+    },
+    {
+      "symbol": "ADA",
+      "quantity": 1000,
+      "purchase_price": 0.8,
+      "purchase_date": "2024-01-20",
+      "current_price": 0.95
+    }
+  ]
+}
